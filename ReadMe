@@ -1,0 +1,16 @@
+Made by Owen Bernard
+
+
+This application is use for playing multiple music
+
+you can see 6 button, 5 round and a 1 made with line
+
+button round left to right :
+- stop the playing music
+- select the previous music on the playlist
+- play the music visible on top
+- select the next music on the playlist
+- (not usable) playing the next music after / playing the same music / playing randomly a music
+
+button line :
+- sorting by name / sorting by duration / sorting by artist
